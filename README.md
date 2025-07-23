@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/revanth-154](https://github.com/revanth-154)
 
-- 💬 Ask me about **HTML,CSS,JS,react.js,**
+- 💬 Ask me about **HTML,CSS,JS,Angular.js,react.js,**
 
 - 📫 How to reach me **bokkarevanthkumar@gmail.com**
 
