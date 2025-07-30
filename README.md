@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **bokkarevanthkumar@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Revanth-154/Resume](https://github.com/Revanth-154/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
